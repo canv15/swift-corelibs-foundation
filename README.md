@@ -1,4 +1,6 @@
 # Foundation
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fswift-corelibs-foundation.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fswift-corelibs-foundation?ref=badge_shield)
+
 
 The Foundation framework defines a base layer of functionality that is required for almost all applications. It provides primitive classes and introduces several paradigms that define functionality not provided by either the Objective-C runtime and language or Swift standard library and language.
 
@@ -77,3 +79,7 @@ Foundation on Darwin is written primarily in Objective-C, and the Objective-C ru
 ##### How do I contribute?
 
 We welcome contributions to Foundation! Please see the [known issues](Docs/Issues.md) page if you are looking for an area where we need help. We are also standing by on the [mailing lists](https://swift.org/community/#communication) to answer questions about what is most important to do and what we will accept into the project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fswift-corelibs-foundation.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fswift-corelibs-foundation?ref=badge_large)
